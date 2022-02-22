@@ -2,7 +2,7 @@
 
 Code for ECE598LV Generative AI models.
 
-# Variational Auto Encoders (vae):
+## Variational Auto Encoders (vae):
 
 - Vanilla VAE
 - Convolutional VAE
