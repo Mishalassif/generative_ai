@@ -1,6 +1,6 @@
 # generative_ai
 
-Code for ECE598LV Generative AI models.
+Code for ECE598 Generative AI models.
 
 ## Variational Auto Encoders (vae):
 
